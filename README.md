@@ -1,6 +1,6 @@
 # My-Works
 
-Ovde su neki od mojih radova 
+Ovde su neki od mojih radova -
 Here are some of my works
 
 - [Mihailo Fitness] (https://mihailo-fitness.rs/)
