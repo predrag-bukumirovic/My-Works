@@ -12,3 +12,5 @@ Here are some of my works
 - [Filip Mitrovic Bend] (https://filipmitrovicbend.com)
 - [Rustic Wood Boards] (https://www.rusticwoodboards.com/)
 - [Heli Brows] (https://www.helibrows.rs/)
+- [Bobice Shop] (https://www.bobice.rs)
+- [Heklani Zeka Shop] (https://www.heklanizeka.rs)
